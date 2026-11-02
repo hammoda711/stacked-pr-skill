@@ -1,0 +1,8 @@
+{
+  "name": "stacked-pr",
+  "description": "Build, restack and land a stack of dependent pull requests, bottom-up, reading the stack from each PR's target branch.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mohamed Taher"
+  }
+}

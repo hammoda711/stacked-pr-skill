@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-skill-stacked-pr",
+  "description": "Single-skill marketplace for stacked-pr.",
+  "owner": {
+    "name": "Mohamed Taher"
+  },
+  "plugins": [
+    {
+      "name": "stacked-pr",
+      "description": "Build, restack and land a stack of dependent pull requests, bottom-up, reading the stack from each PR's target branch.",
+      "author": {
+        "name": "Mohamed Taher"
+      },
+      "category": "productivity",
+      "source": "./",
+      "homepage": "https://github.com/hammoda711/claude-skill-stacked-pr"
+    }
+  ]
+}
