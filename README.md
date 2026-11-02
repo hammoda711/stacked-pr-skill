@@ -16,8 +16,8 @@ The one rule: the stack moves bottom-up. Never merge a layer before the one belo
 ## Install
 
 ```
-/plugin marketplace add hammoda711/claude-skill-stacked-pr
-/plugin install stacked-pr@claude-skill-stacked-pr
+/plugin marketplace add hammoda711/stacked-pr-skill
+/plugin install stacked-pr@stacked-pr-skill
 ```
 
 ## Use

@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-skill-stacked-pr",
+  "name": "stacked-pr-skill",
   "description": "Single-skill marketplace for stacked-pr.",
   "owner": {
     "name": "Mohamed Taher"
@@ -14,7 +14,7 @@
       },
       "category": "productivity",
       "source": "./",
-      "homepage": "https://github.com/hammoda711/claude-skill-stacked-pr"
+      "homepage": "https://github.com/hammoda711/stacked-pr-skill"
     }
   ]
 }
